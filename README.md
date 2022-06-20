@@ -8,12 +8,12 @@ Atualmente, estou estudando e criando projetos back-end com Node.js, Express e P
 ```
 
 let Tarcila = {
-  'dev': 'backend', 
-  'studying': [{'what': 'Desenvolvimento Full Stack', 'where': 'Kenzie Academy Brasil'}] 
-  'passions': ['amigos', 'família', 'conhecer pessoas diferentes'],
-  'pets': {'dog': 'Lara Elizabeth'}, {'cat': 'Claudinha'},
-  'hobbies': ['cinema de rua', 'aprender coisas novas'],
-  'sports': ['bicicleta', 'handebol']
+  dev: "backend", 
+  studying: [{what: "Desenvolvimento Full Stack", where: "Kenzie Academy Brasil"}] 
+  passions: ["amigos", "família", "conhecer pessoas diferentes"],
+  pets: {dog: "Lara Elizabeth"}, {cat: "Claudinha"},
+  hobbies: ["cinema de rua", "aprender coisas novas"],
+  sports: ["bicicleta", "handebol", "futsal"]
 };
 
 ```
