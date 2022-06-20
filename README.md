@@ -7,7 +7,7 @@ Atualmente, estou estudando e criando projetos back-end com Node.js, Express e P
 
 ```
 
-let Tarcila = {
+let tarcila = {
   dev: "backend", 
   studying: [{what: "Desenvolvimento Full Stack", where: "Kenzie Academy Brasil"}] 
   passions: ["amigos", "família", "conhecer pessoas diferentes"],
