@@ -7,11 +7,11 @@ Atualmente, estou estudando e criando projetos back-end com Node.js, Express e P
 
 ```
 
-let tarcila = {
+const tarcila = {
   dev: "backend", 
-  studying: [{what: "Desenvolvimento Full Stack", where: "Kenzie Academy Brasil"}] 
+  studying: [{course: "Desenvolvimento Full Stack", school: "Kenzie Academy Brasil"}],
   passions: ["amigos", "família", "conhecer pessoas diferentes"],
-  pets: {dog: "Lara Elizabeth"}, {cat: "Claudinha"},
+  pets: {dog: ["Lara Elizabeth"]}, {cat: ["Claudinha"]},
   hobbies: ["cinema de rua", "aprender coisas novas"],
   sports: ["bicicleta", "handebol", "futsal"]
 };
