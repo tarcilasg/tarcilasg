@@ -38,4 +38,4 @@ const tarcila = {
 <a href = "mailto:tarcilasg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tarcila-garcia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-<p>*confira a construção do meu projeto de<a href="https://portfolio-tg.vercel.app/"> portfólio</a> ;)</p>
+<p>*confira <a href="https://portfolio-tg.vercel.app/">aqui</a> a construção do meu projeto de portfólio ;)</p>
