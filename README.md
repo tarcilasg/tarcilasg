@@ -1,5 +1,5 @@
 <h1 align="center">Olá! <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" alt="wave" width="30" height="30" /> Meu nome é Tarcila</h1>
-<h3 align="center">Desenvolvedora Full Stack (em formação)</h3> 
+<h3 align="center">Desenvolvedora Full Stack &lt;em formação&gt;</h3> 
 <br />
 <p>
 Atualmente, estou estudando e criando projetos back-end com Python, Typescript, Node.js, Express e PostgreSQL :woman_technologist:
