@@ -1,8 +1,8 @@
 <h1 align="center">Olá! <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" alt="wave" width="30" height="30" /> Meu nome é Tarcila</h1>
-<h3 align="center"> Desenvolvedora Back-End</h3>
+<h3 align="center">Desenvolvedora Full Stack (em formação)</h3> 
 <br />
 <p>
-Atualmente, estou estudando e criando projetos back-end com Node.js, Express e PostgreSQL :woman_technologist:
+Atualmente, estou estudando e criando projetos back-end com Python, Typescript, Node.js, Express e PostgreSQL :woman_technologist:
 </p>
 
 ```
@@ -38,3 +38,4 @@ const tarcila = {
 <a href = "mailto:tarcilasg@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/tarcila-garcia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+<p><a href="https://portfolio-tg.vercel.app/">meu (início) de portfólio</a></p>
