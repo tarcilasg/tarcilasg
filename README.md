@@ -1,15 +1,15 @@
 <h1 align="center">Olá! <img src="https://github.com/kaueMarques/kaueMarques/blob/master/hi.gif" alt="wave" width="30" height="30" /> Meu nome é Tarcila</h1>
-<h3 align="center">Desenvolvedora Full Stack &lt;em formação&gt;</h3> 
+<h3 align="center">Desenvolvedora Full-Stack &lt;em formação&gt;</h3> 
 <br />
 <p>
-Atualmente, estou estudando e criando projetos back-end com Python, Typescript, Node.js, Express e PostgreSQL :woman_technologist:
+Atualmente, estou estudando e criando projetos back-end com Python, Django, Typescript, Node.js, TypeORM, PostgreSQL e React JS :woman_technologist:
 </p>
 
 ```
 
 const tarcila = {
   dev: "backend", 
-  studying: [{course: "Desenvolvimento Full Stack", school: "Kenzie Academy Brasil"}],
+  studying: [{course: "Desenvolvimento Full-Stack", school: "Kenzie Academy Brasil"}],
   passions: ["amigos", "família", "conhecer pessoas diferentes"],
   pets: {dog: ["Lara Elizabeth"]}, {cat: ["Claudinha"]},
   hobbies: ["cinema de rua", "aprender coisas novas"],
