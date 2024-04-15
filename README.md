@@ -2,7 +2,7 @@
 <h3 align="center">Desenvolvedora Full-Stack &lt;em formação&gt;</h3> 
 <br />
 <p>
-Atualmente, estou estudando e criando projetos back-end com Python, Django, Typescript, Node.js, TypeORM, PostgreSQL e React JS :woman_technologist:
+Atualmente, estou estudando Engenharia de Software e trabalhando em projetos back-end com Python, Django, PostgreSQL e React JS :woman_technologist:
 </p>
 
 ```
